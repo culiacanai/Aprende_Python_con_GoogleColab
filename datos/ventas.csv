@@ -1,201 +1,501 @@
-fecha,sucursal,producto,cantidad,precio_unitario,descuento,total
-2025-01-01,Galerías,Microfibra,1,45,0.1,40.5
-2025-01-01,Guasave,Armazón básico,3,350,0,1050
-2025-01-01,Tres Ríos,Consulta visual,1,99,0,99
-2025-01-01,Los Mochis,Gotas lubricantes,3,95,0,285
-2025-01-01,Plaza Fiesta,Armazón de diseñador,2,1650,0.15,2805.0
-2025-01-01,Mazatlán Centro,Armazón premium,2,890,0.05,1691.0
-2025-01-02,Centro,Lentes bifocales,1,1490,0,1490
-2025-01-02,Centro,Gotas lubricantes,2,95,0.1,171.0
-2025-01-02,Galerías,Armazón de diseñador,1,1650,0,1650
-2025-01-02,Forum,Estuche rígido,3,80,0,240
-2025-01-02,Plaza Fiesta,Lentes progresivos,3,2490,0,7470
-2025-01-03,Centro,Consulta visual,1,99,0,99
-2025-01-03,Forum,Lentes bifocales,2,1490,0,2980
-2025-01-03,Los Mochis,Lentes bifocales,3,1490,0,4470
-2025-01-03,Centro,Armazón de diseñador,1,1650,0.1,1485.0
-2025-01-03,Plaza Fiesta,Lentes bifocales,3,1490,0,4470
-2025-01-03,Guasave,Armazón básico,3,350,0,1050
-2025-01-03,Mazatlán Dorado,Solución 360ml,2,120,0.1,216.0
-2025-01-03,Centro,Lentes monofocales,1,890,0,890
-2025-01-03,Forum,Lentes bifocales,3,1490,0,4470
-2025-01-03,Forum,Lentes bifocales,3,1490,0.05,4246.5
-2025-01-04,Mazatlán Centro,Armazón de diseñador,3,1650,0,4950
-2025-01-04,Galerías,Solución 360ml,1,120,0.05,114.0
-2025-01-04,Forum,Armazón básico,1,350,0,350
-2025-01-04,Mazatlán Dorado,Armazón de diseñador,2,1650,0.05,3135.0
-2025-01-04,Centro,Solución 360ml,3,120,0,360
-2025-01-04,Mazatlán Dorado,Lentes monofocales,2,890,0,1780
-2025-01-04,Mazatlán Dorado,Armazón de diseñador,3,1650,0.05,4702.5
-2025-01-04,Forum,Armazón de diseñador,1,1650,0.15,1402.5
-2025-01-04,Centro,Gotas lubricantes,2,95,0.05,180.5
-2025-01-05,Los Mochis,Microfibra,1,45,0,45
-2025-01-05,Forum,Armazón premium,1,890,0,890
-2025-01-05,Galerías,Estuche rígido,2,80,0,160
-2025-01-05,Mazatlán Centro,Lentes bifocales,1,1490,0,1490
-2025-01-05,Forum,Lentes progresivos,1,2490,0.05,2365.5
-2025-01-05,Centro,Lentes bifocales,2,1490,0,2980
-2025-01-05,Los Mochis,Lentes progresivos,1,2490,0,2490
-2025-01-05,Los Mochis,Consulta visual,1,99,0.1,89.1
-2025-01-06,Los Mochis,Solución 360ml,2,120,0.15,204.0
-2025-01-06,Mazatlán Dorado,Gotas lubricantes,1,95,0.05,90.25
-2025-01-06,Tres Ríos,Armazón premium,3,890,0.15,2269.5
-2025-01-06,Guasave,Estuche rígido,1,80,0.1,72.0
-2025-01-06,Los Mochis,Armazón básico,2,350,0,700
-2025-01-07,Galerías,Consulta visual,3,99,0,297
-2025-01-07,Forum,Consulta visual,1,99,0,99
-2025-01-07,Los Mochis,Armazón de diseñador,2,1650,0,3300
-2025-01-08,Forum,Lentes progresivos,3,2490,0,7470
-2025-01-08,Guasave,Microfibra,2,45,0.15,76.5
-2025-01-08,Plaza Fiesta,Microfibra,2,45,0,90
-2025-01-08,Centro,Armazón básico,3,350,0,1050
-2025-01-08,Galerías,Consulta visual,2,99,0,198
-2025-01-08,Los Mochis,Solución 360ml,1,120,0,120
-2025-01-08,Centro,Gotas lubricantes,1,95,0.05,90.25
-2025-01-08,Centro,Consulta visual,1,99,0.05,94.05
-2025-01-08,Tres Ríos,Estuche rígido,1,80,0.05,76.0
-2025-01-08,Galerías,Estuche rígido,1,80,0.15,68.0
-2025-01-08,Mazatlán Dorado,Lentes progresivos,3,2490,0,7470
-2025-01-08,Galerías,Solución 360ml,2,120,0,240
-2025-01-08,Los Mochis,Gotas lubricantes,3,95,0.15,242.25
-2025-01-08,Mazatlán Dorado,Estuche rígido,3,80,0,240
-2025-01-08,Galerías,Consulta visual,3,99,0.15,252.45
-2025-01-09,Los Mochis,Armazón básico,1,350,0.05,332.5
-2025-01-09,Centro,Solución 360ml,1,120,0.1,108.0
-2025-01-09,Los Mochis,Lentes bifocales,1,1490,0.05,1415.5
-2025-01-10,Plaza Fiesta,Estuche rígido,3,80,0.15,204.0
-2025-01-10,Guasave,Lentes monofocales,3,890,0.1,2403.0
-2025-01-10,Tres Ríos,Lentes progresivos,2,2490,0,4980
-2025-01-10,Forum,Armazón de diseñador,1,1650,0.15,1402.5
-2025-01-10,Guasave,Lentes progresivos,1,2490,0.05,2365.5
-2025-01-10,Galerías,Armazón básico,2,350,0.1,630.0
-2025-01-10,Forum,Armazón básico,1,350,0,350
-2025-01-10,Forum,Armazón premium,2,890,0,1780
-2025-01-10,Tres Ríos,Armazón básico,2,350,0,700
-2025-01-10,Centro,Gotas lubricantes,3,95,0,285
-2025-01-10,Galerías,Estuche rígido,1,80,0.15,68.0
-2025-01-11,Galerías,Lentes bifocales,2,1490,0,2980
-2025-01-11,Centro,Lentes bifocales,2,1490,0,2980
-2025-01-11,Mazatlán Dorado,Armazón premium,2,890,0,1780
-2025-01-11,Galerías,Gotas lubricantes,3,95,0,285
-2025-01-12,Los Mochis,Microfibra,3,45,0,135
-2025-01-12,Plaza Fiesta,Armazón premium,1,890,0.15,756.5
-2025-01-13,Galerías,Lentes bifocales,1,1490,0.1,1341.0
-2025-01-13,Los Mochis,Lentes progresivos,2,2490,0,4980
-2025-01-13,Los Mochis,Microfibra,2,45,0.1,81.0
-2025-01-13,Galerías,Estuche rígido,2,80,0.05,152.0
-2025-01-13,Centro,Gotas lubricantes,2,95,0.05,180.5
-2025-01-13,Mazatlán Centro,Consulta visual,3,99,0.05,282.15
-2025-01-13,Mazatlán Centro,Armazón básico,2,350,0,700
-2025-01-13,Mazatlán Centro,Lentes monofocales,2,890,0,1780
-2025-01-13,Forum,Armazón premium,3,890,0.1,2403.0
-2025-01-14,Mazatlán Centro,Armazón premium,1,890,0,890
-2025-01-14,Los Mochis,Estuche rígido,1,80,0.05,76.0
-2025-01-14,Mazatlán Centro,Armazón de diseñador,2,1650,0.1,2970.0
-2025-01-14,Guasave,Estuche rígido,1,80,0.15,68.0
-2025-01-14,Guasave,Armazón de diseñador,2,1650,0.15,2805.0
-2025-01-15,Mazatlán Centro,Lentes progresivos,2,2490,0,4980
-2025-01-15,Centro,Consulta visual,3,99,0.15,252.45
-2025-01-15,Mazatlán Dorado,Consulta visual,3,99,0,297
-2025-01-15,Mazatlán Dorado,Lentes monofocales,1,890,0.05,845.5
-2025-01-15,Mazatlán Dorado,Gotas lubricantes,2,95,0,190
-2025-01-15,Centro,Lentes bifocales,2,1490,0,2980
-2025-01-15,Galerías,Armazón premium,2,890,0,1780
-2025-01-15,Los Mochis,Armazón premium,1,890,0,890
-2025-01-16,Centro,Lentes bifocales,2,1490,0,2980
-2025-01-16,Galerías,Gotas lubricantes,3,95,0.1,256.5
-2025-01-16,Los Mochis,Armazón de diseñador,1,1650,0,1650
-2025-01-16,Tres Ríos,Gotas lubricantes,3,95,0.15,242.25
-2025-01-17,Centro,Microfibra,1,45,0.15,38.25
-2025-01-17,Forum,Lentes progresivos,2,2490,0,4980
-2025-01-17,Mazatlán Dorado,Armazón básico,3,350,0.15,892.5
-2025-01-17,Tres Ríos,Solución 360ml,3,120,0,360
-2025-01-17,Mazatlán Centro,Lentes monofocales,2,890,0.05,1691.0
-2025-01-17,Galerías,Gotas lubricantes,3,95,0.05,270.75
-2025-01-18,Guasave,Lentes monofocales,3,890,0,2670
-2025-01-18,Plaza Fiesta,Gotas lubricantes,3,95,0.05,270.75
-2025-01-18,Los Mochis,Lentes progresivos,2,2490,0,4980
-2025-01-18,Centro,Lentes bifocales,1,1490,0,1490
-2025-01-18,Centro,Lentes bifocales,1,1490,0.15,1266.5
-2025-01-18,Guasave,Gotas lubricantes,1,95,0.05,90.25
-2025-01-18,Centro,Solución 360ml,3,120,0.1,324.0
-2025-01-18,Centro,Armazón de diseñador,1,1650,0.15,1402.5
-2025-01-18,Mazatlán Dorado,Consulta visual,2,99,0,198
-2025-01-18,Centro,Microfibra,1,45,0,45
-2025-01-18,Plaza Fiesta,Armazón básico,1,350,0.15,297.5
-2025-01-18,Plaza Fiesta,Armazón premium,1,890,0,890
-2025-01-18,Galerías,Lentes progresivos,3,2490,0.05,7096.5
-2025-01-18,Tres Ríos,Lentes progresivos,1,2490,0.05,2365.5
-2025-01-19,Galerías,Lentes monofocales,1,890,0.15,756.5
-2025-01-19,Mazatlán Dorado,Gotas lubricantes,2,95,0,190
-2025-01-19,Guasave,Lentes monofocales,3,890,0,2670
-2025-01-19,Guasave,Lentes progresivos,2,2490,0,4980
-2025-01-19,Galerías,Lentes monofocales,1,890,0.1,801.0
-2025-01-19,Centro,Armazón premium,3,890,0.15,2269.5
-2025-01-20,Plaza Fiesta,Microfibra,3,45,0,135
-2025-01-20,Galerías,Solución 360ml,3,120,0,360
-2025-01-20,Mazatlán Centro,Estuche rígido,2,80,0.05,152.0
-2025-01-20,Forum,Microfibra,2,45,0.05,85.5
-2025-01-21,Tres Ríos,Lentes monofocales,3,890,0,2670
-2025-01-21,Guasave,Solución 360ml,1,120,0.05,114.0
-2025-01-21,Mazatlán Centro,Estuche rígido,3,80,0.05,228.0
-2025-01-21,Galerías,Microfibra,2,45,0,90
-2025-01-21,Guasave,Solución 360ml,3,120,0.1,324.0
-2025-01-21,Mazatlán Centro,Lentes bifocales,1,1490,0.15,1266.5
-2025-01-22,Guasave,Lentes bifocales,3,1490,0.05,4246.5
-2025-01-22,Guasave,Armazón premium,3,890,0,2670
-2025-01-22,Forum,Solución 360ml,1,120,0.1,108.0
-2025-01-22,Guasave,Armazón de diseñador,2,1650,0,3300
-2025-01-22,Mazatlán Centro,Armazón básico,2,350,0.05,665.0
-2025-01-22,Mazatlán Dorado,Armazón de diseñador,2,1650,0.15,2805.0
-2025-01-22,Mazatlán Dorado,Consulta visual,3,99,0,297
-2025-01-22,Forum,Microfibra,2,45,0.15,76.5
-2025-01-22,Guasave,Microfibra,3,45,0,135
-2025-01-22,Centro,Lentes bifocales,3,1490,0.05,4246.5
-2025-01-22,Tres Ríos,Lentes progresivos,1,2490,0,2490
-2025-01-23,Guasave,Armazón básico,3,350,0,1050
-2025-01-23,Forum,Armazón premium,2,890,0.15,1513.0
-2025-01-23,Guasave,Consulta visual,3,99,0.05,282.15
-2025-01-23,Mazatlán Dorado,Estuche rígido,2,80,0,160
-2025-01-23,Plaza Fiesta,Solución 360ml,1,120,0.15,102.0
-2025-01-23,Los Mochis,Consulta visual,3,99,0.05,282.15
-2025-01-24,Los Mochis,Microfibra,3,45,0.05,128.25
-2025-01-24,Forum,Armazón de diseñador,2,1650,0,3300
-2025-01-24,Plaza Fiesta,Estuche rígido,1,80,0.1,72.0
-2025-01-25,Centro,Lentes bifocales,1,1490,0.15,1266.5
-2025-01-25,Plaza Fiesta,Consulta visual,2,99,0,198
-2025-01-25,Guasave,Solución 360ml,3,120,0.15,306.0
-2025-01-25,Mazatlán Centro,Lentes progresivos,3,2490,0.1,6723.0
-2025-01-26,Centro,Estuche rígido,3,80,0,240
-2025-01-26,Tres Ríos,Armazón básico,1,350,0,350
-2025-01-26,Guasave,Lentes bifocales,1,1490,0.15,1266.5
-2025-01-27,Mazatlán Centro,Gotas lubricantes,1,95,0.15,80.75
-2025-01-27,Centro,Armazón básico,1,350,0,350
-2025-01-27,Galerías,Lentes monofocales,1,890,0,890
-2025-01-27,Galerías,Microfibra,2,45,0.15,76.5
-2025-01-27,Tres Ríos,Estuche rígido,1,80,0.15,68.0
-2025-01-27,Centro,Gotas lubricantes,1,95,0,95
-2025-01-28,Centro,Consulta visual,3,99,0,297
-2025-01-28,Forum,Armazón premium,1,890,0.15,756.5
-2025-01-28,Tres Ríos,Armazón premium,3,890,0,2670
-2025-01-28,Los Mochis,Estuche rígido,2,80,0,160
-2025-01-28,Tres Ríos,Gotas lubricantes,1,95,0,95
-2025-01-28,Forum,Lentes bifocales,2,1490,0.05,2831.0
-2025-01-29,Mazatlán Centro,Armazón básico,3,350,0.05,997.5
-2025-01-29,Centro,Lentes progresivos,2,2490,0,4980
-2025-01-29,Tres Ríos,Microfibra,1,45,0,45
-2025-01-29,Centro,Lentes bifocales,3,1490,0.05,4246.5
-2025-01-29,Plaza Fiesta,Microfibra,1,45,0,45
-2025-01-29,Guasave,Lentes bifocales,1,1490,0,1490
-2025-01-30,Mazatlán Dorado,Lentes bifocales,3,1490,0,4470
-2025-01-30,Tres Ríos,Consulta visual,2,99,0.15,168.3
-2025-01-30,Guasave,Lentes progresivos,1,2490,0.1,2241.0
-2025-01-30,Guasave,Consulta visual,3,99,0.15,252.45
-2025-01-30,Mazatlán Dorado,Solución 360ml,3,120,0,360
-2025-01-30,Los Mochis,Armazón premium,3,890,0.05,2536.5
-2025-01-31,Mazatlán Centro,Lentes bifocales,1,1490,0.05,1415.5
-2025-01-31,Mazatlán Centro,Gotas lubricantes,2,95,0.15,161.5
-2025-01-31,Los Mochis,Gotas lubricantes,3,95,0.1,256.5
-2025-01-31,Forum,Estuche rígido,3,80,0,240
-2025-01-31,Tres Ríos,Lentes progresivos,2,2490,0,4980
-2025-01-31,Forum,Consulta visual,1,99,0,99
+fecha,sucursal,ciudad,producto,categoria,cantidad,precio_unitario,descuento,total
+2025-01-01,Tres Ríos,Culiacán,Consulta visual,Servicios,1,99,0,99
+2025-01-01,Mazatlán Centro,Mazatlán,Armazón premium,Armazones,2,890,0.15,1513.0
+2025-01-01,Galerías,Culiacán,Armazón premium,Armazones,3,890,0.05,2536.5
+2025-01-01,Forum,Culiacán,Armazón premium,Armazones,1,890,0.15,756.5
+2025-01-01,Los Mochis,Los Mochis,Solución 360ml,Accesorios,1,120,0,120
+2025-01-01,Mazatlán Centro,Mazatlán,Armazón básico,Armazones,3,350,0,1050
+2025-01-02,Tres Ríos,Culiacán,Consulta visual,Servicios,3,99,0.15,252.45
+2025-01-02,Tres Ríos,Culiacán,Armazón básico,Armazones,1,350,0,350
+2025-01-02,Guasave,Guasave,Armazón premium,Armazones,3,890,0,2670
+2025-01-03,Tres Ríos,Culiacán,Armazón de diseñador,Armazones,2,1650,0,3300
+2025-01-03,Guasave,Guasave,Armazón básico,Armazones,3,350,0,1050
+2025-01-03,Plaza Fiesta,Culiacán,Armazón básico,Armazones,1,350,0,350
+2025-01-03,Mazatlán Centro,Mazatlán,Lentes progresivos,Lentes,3,2490,0,7470
+2025-01-03,Mazatlán Dorado,Mazatlán,Estuche rígido,Accesorios,1,80,0.1,72.0
+2025-01-03,Tres Ríos,Culiacán,Solución 360ml,Accesorios,3,120,0,360
+2025-01-04,Forum,Culiacán,Solución 360ml,Accesorios,2,120,0,240
+2025-01-04,Mazatlán Dorado,Mazatlán,Armazón de diseñador,Armazones,3,1650,0.1,4455.0
+2025-01-04,Tres Ríos,Culiacán,Armazón básico,Armazones,3,350,0.15,892.5
+2025-01-04,Centro,Culiacán,Armazón de diseñador,Armazones,1,1650,0,1650
+2025-01-04,Plaza Fiesta,Culiacán,Lentes monofocales,Lentes,2,890,0.15,1513.0
+2025-01-04,Mazatlán Dorado,Mazatlán,Lentes monofocales,Lentes,2,890,0.05,1691.0
+2025-01-04,Tres Ríos,Culiacán,Lentes monofocales,Lentes,3,890,0.15,2269.5
+2025-01-05,Centro,Culiacán,Lentes bifocales,Lentes,1,1490,0,1490
+2025-01-05,Centro,Culiacán,Armazón de diseñador,Armazones,2,1650,0,3300
+2025-01-05,Plaza Fiesta,Culiacán,Consulta visual,Servicios,2,99,0,198
+2025-01-06,Los Mochis,Los Mochis,Microfibra,Accesorios,1,45,0,45
+2025-01-06,Galerías,Culiacán,Armazón de diseñador,Armazones,1,1650,0,1650
+2025-01-06,Forum,Culiacán,Estuche rígido,Accesorios,3,80,0.15,204.0
+2025-01-06,Mazatlán Dorado,Mazatlán,Armazón de diseñador,Armazones,3,1650,0,4950
+2025-01-06,Plaza Fiesta,Culiacán,Estuche rígido,Accesorios,3,80,0.1,216.0
+2025-01-06,Forum,Culiacán,Solución 360ml,Accesorios,3,120,0,360
+2025-01-06,Mazatlán Dorado,Mazatlán,Lentes monofocales,Lentes,2,890,0,1780
+2025-01-06,Los Mochis,Los Mochis,Gotas lubricantes,Accesorios,3,95,0,285
+2025-01-06,Centro,Culiacán,Lentes progresivos,Lentes,3,2490,0,7470
+2025-01-07,Tres Ríos,Culiacán,Lentes progresivos,Lentes,3,2490,0,7470
+2025-01-07,Tres Ríos,Culiacán,Consulta visual,Servicios,2,99,0.15,168.3
+2025-01-07,Mazatlán Centro,Mazatlán,Armazón básico,Armazones,3,350,0,1050
+2025-01-07,Galerías,Culiacán,Estuche rígido,Accesorios,1,80,0.15,68.0
+2025-01-07,Plaza Fiesta,Culiacán,Solución 360ml,Accesorios,3,120,0,360
+2025-01-07,Mazatlán Centro,Mazatlán,Armazón premium,Armazones,1,890,0.15,756.5
+2025-01-07,Galerías,Culiacán,Estuche rígido,Accesorios,3,80,0.15,204.0
+2025-01-07,Guasave,Guasave,Armazón básico,Armazones,2,350,0.05,665.0
+2025-01-08,Forum,Culiacán,Lentes monofocales,Lentes,2,890,0,1780
+2025-01-08,Forum,Culiacán,Gotas lubricantes,Accesorios,1,95,0,95
+2025-01-08,Mazatlán Centro,Mazatlán,Lentes monofocales,Lentes,1,890,0.05,845.5
+2025-01-08,Forum,Culiacán,Solución 360ml,Accesorios,2,120,0.15,204.0
+2025-01-08,Plaza Fiesta,Culiacán,Armazón premium,Armazones,3,890,0.1,2403.0
+2025-01-08,Tres Ríos,Culiacán,Consulta visual,Servicios,3,99,0,297
+2025-01-08,Tres Ríos,Culiacán,Microfibra,Accesorios,1,45,0,45
+2025-01-08,Plaza Fiesta,Culiacán,Microfibra,Accesorios,1,45,0.05,42.75
+2025-01-09,Centro,Culiacán,Armazón de diseñador,Armazones,1,1650,0.05,1567.5
+2025-01-09,Forum,Culiacán,Solución 360ml,Accesorios,1,120,0.05,114.0
+2025-01-09,Galerías,Culiacán,Armazón de diseñador,Armazones,3,1650,0.05,4702.5
+2025-01-09,Mazatlán Dorado,Mazatlán,Estuche rígido,Accesorios,1,80,0.05,76.0
+2025-01-09,Los Mochis,Los Mochis,Armazón premium,Armazones,3,890,0,2670
+2025-01-09,Los Mochis,Los Mochis,Estuche rígido,Accesorios,2,80,0.05,152.0
+2025-01-09,Tres Ríos,Culiacán,Lentes bifocales,Lentes,1,1490,0,1490
+2025-01-09,Plaza Fiesta,Culiacán,Consulta visual,Servicios,1,99,0,99
+2025-01-10,Centro,Culiacán,Estuche rígido,Accesorios,3,80,0.05,228.0
+2025-01-10,Plaza Fiesta,Culiacán,Microfibra,Accesorios,1,45,0.15,38.25
+2025-01-10,Los Mochis,Los Mochis,Solución 360ml,Accesorios,3,120,0.05,342.0
+2025-01-10,Galerías,Culiacán,Lentes bifocales,Lentes,3,1490,0.15,3799.5
+2025-01-10,Los Mochis,Los Mochis,Estuche rígido,Accesorios,3,80,0.05,228.0
+2025-01-11,Guasave,Guasave,Armazón premium,Armazones,3,890,0.05,2536.5
+2025-01-11,Los Mochis,Los Mochis,Lentes monofocales,Lentes,3,890,0.05,2536.5
+2025-01-11,Forum,Culiacán,Solución 360ml,Accesorios,2,120,0.05,228.0
+2025-01-11,Galerías,Culiacán,Microfibra,Accesorios,2,45,0.1,81.0
+2025-01-11,Mazatlán Dorado,Mazatlán,Lentes bifocales,Lentes,2,1490,0.05,2831.0
+2025-01-11,Mazatlán Centro,Mazatlán,Consulta visual,Servicios,2,99,0,198
+2025-01-12,Mazatlán Centro,Mazatlán,Armazón premium,Armazones,2,890,0,1780
+2025-01-13,Mazatlán Dorado,Mazatlán,Armazón premium,Armazones,2,890,0.1,1602.0
+2025-01-13,Mazatlán Dorado,Mazatlán,Armazón de diseñador,Armazones,2,1650,0,3300
+2025-01-13,Centro,Culiacán,Solución 360ml,Accesorios,3,120,0,360
+2025-01-13,Tres Ríos,Culiacán,Microfibra,Accesorios,1,45,0.05,42.75
+2025-01-13,Los Mochis,Los Mochis,Lentes progresivos,Lentes,3,2490,0,7470
+2025-01-13,Mazatlán Centro,Mazatlán,Solución 360ml,Accesorios,2,120,0.1,216.0
+2025-01-13,Mazatlán Centro,Mazatlán,Lentes progresivos,Lentes,3,2490,0,7470
+2025-01-13,Centro,Culiacán,Armazón premium,Armazones,2,890,0.15,1513.0
+2025-01-14,Forum,Culiacán,Armazón básico,Armazones,1,350,0.05,332.5
+2025-01-14,Mazatlán Dorado,Mazatlán,Armazón de diseñador,Armazones,3,1650,0.15,4207.5
+2025-01-14,Forum,Culiacán,Solución 360ml,Accesorios,3,120,0,360
+2025-01-14,Plaza Fiesta,Culiacán,Armazón premium,Armazones,1,890,0,890
+2025-01-14,Mazatlán Dorado,Mazatlán,Lentes progresivos,Lentes,2,2490,0.1,4482.0
+2025-01-15,Los Mochis,Los Mochis,Lentes bifocales,Lentes,3,1490,0.15,3799.5
+2025-01-15,Plaza Fiesta,Culiacán,Lentes monofocales,Lentes,1,890,0,890
+2025-01-16,Forum,Culiacán,Armazón básico,Armazones,1,350,0,350
+2025-01-16,Galerías,Culiacán,Microfibra,Accesorios,2,45,0.1,81.0
+2025-01-16,Forum,Culiacán,Armazón de diseñador,Armazones,1,1650,0.1,1485.0
+2025-01-16,Centro,Culiacán,Consulta visual,Servicios,3,99,0.15,252.45
+2025-01-16,Mazatlán Dorado,Mazatlán,Armazón de diseñador,Armazones,3,1650,0.15,4207.5
+2025-01-16,Galerías,Culiacán,Armazón premium,Armazones,3,890,0,2670
+2025-01-16,Galerías,Culiacán,Estuche rígido,Accesorios,1,80,0,80
+2025-01-16,Plaza Fiesta,Culiacán,Lentes bifocales,Lentes,2,1490,0,2980
+2025-01-17,Galerías,Culiacán,Estuche rígido,Accesorios,2,80,0.15,136.0
+2025-01-17,Galerías,Culiacán,Lentes progresivos,Lentes,3,2490,0,7470
+2025-01-17,Galerías,Culiacán,Estuche rígido,Accesorios,3,80,0,240
+2025-01-17,Forum,Culiacán,Lentes bifocales,Lentes,3,1490,0,4470
+2025-01-18,Galerías,Culiacán,Lentes bifocales,Lentes,1,1490,0.1,1341.0
+2025-01-18,Los Mochis,Los Mochis,Lentes progresivos,Lentes,1,2490,0,2490
+2025-01-18,Mazatlán Dorado,Mazatlán,Estuche rígido,Accesorios,2,80,0.1,144.0
+2025-01-18,Galerías,Culiacán,Armazón premium,Armazones,2,890,0,1780
+2025-01-18,Tres Ríos,Culiacán,Estuche rígido,Accesorios,1,80,0.1,72.0
+2025-01-18,Forum,Culiacán,Estuche rígido,Accesorios,1,80,0,80
+2025-01-19,Centro,Culiacán,Lentes bifocales,Lentes,2,1490,0,2980
+2025-01-19,Centro,Culiacán,Armazón premium,Armazones,1,890,0,890
+2025-01-19,Tres Ríos,Culiacán,Lentes progresivos,Lentes,2,2490,0.05,4731.0
+2025-01-19,Los Mochis,Los Mochis,Lentes monofocales,Lentes,1,890,0,890
+2025-01-20,Los Mochis,Los Mochis,Armazón premium,Armazones,3,890,0.1,2403.0
+2025-01-20,Mazatlán Dorado,Mazatlán,Consulta visual,Servicios,1,99,0.15,84.15
+2025-01-20,Los Mochis,Los Mochis,Armazón básico,Armazones,1,350,0,350
+2025-01-21,Los Mochis,Los Mochis,Solución 360ml,Accesorios,2,120,0.1,216.0
+2025-01-21,Los Mochis,Los Mochis,Lentes monofocales,Lentes,3,890,0.1,2403.0
+2025-01-21,Los Mochis,Los Mochis,Estuche rígido,Accesorios,2,80,0.15,136.0
+2025-01-21,Forum,Culiacán,Lentes progresivos,Lentes,3,2490,0,7470
+2025-01-21,Centro,Culiacán,Solución 360ml,Accesorios,2,120,0.1,216.0
+2025-01-21,Mazatlán Centro,Mazatlán,Solución 360ml,Accesorios,3,120,0,360
+2025-01-21,Mazatlán Centro,Mazatlán,Armazón de diseñador,Armazones,2,1650,0,3300
+2025-01-21,Plaza Fiesta,Culiacán,Gotas lubricantes,Accesorios,1,95,0.1,85.5
+2025-01-21,Galerías,Culiacán,Estuche rígido,Accesorios,3,80,0,240
+2025-01-21,Mazatlán Dorado,Mazatlán,Gotas lubricantes,Accesorios,3,95,0.15,242.25
+2025-01-22,Mazatlán Dorado,Mazatlán,Lentes monofocales,Lentes,2,890,0,1780
+2025-01-22,Galerías,Culiacán,Estuche rígido,Accesorios,2,80,0.1,144.0
+2025-01-22,Plaza Fiesta,Culiacán,Armazón de diseñador,Armazones,3,1650,0,4950
+2025-01-22,Plaza Fiesta,Culiacán,Lentes progresivos,Lentes,3,2490,0.05,7096.5
+2025-01-22,Guasave,Guasave,Consulta visual,Servicios,3,99,0.05,282.15
+2025-01-23,Mazatlán Centro,Mazatlán,Solución 360ml,Accesorios,3,120,0.15,306.0
+2025-01-23,Guasave,Guasave,Estuche rígido,Accesorios,1,80,0.05,76.0
+2025-01-23,Los Mochis,Los Mochis,Microfibra,Accesorios,2,45,0.05,85.5
+2025-01-24,Plaza Fiesta,Culiacán,Lentes progresivos,Lentes,1,2490,0.05,2365.5
+2025-01-24,Plaza Fiesta,Culiacán,Gotas lubricantes,Accesorios,3,95,0,285
+2025-01-24,Tres Ríos,Culiacán,Microfibra,Accesorios,2,45,0,90
+2025-01-24,Guasave,Guasave,Armazón premium,Armazones,2,890,0,1780
+2025-01-24,Los Mochis,Los Mochis,Microfibra,Accesorios,2,45,0.05,85.5
+2025-01-24,Plaza Fiesta,Culiacán,Solución 360ml,Accesorios,3,120,0.15,306.0
+2025-01-25,Mazatlán Dorado,Mazatlán,Estuche rígido,Accesorios,2,80,0,160
+2025-01-25,Forum,Culiacán,Gotas lubricantes,Accesorios,2,95,0,190
+2025-01-25,Tres Ríos,Culiacán,Estuche rígido,Accesorios,1,80,0.1,72.0
+2025-01-26,Plaza Fiesta,Culiacán,Armazón de diseñador,Armazones,1,1650,0.05,1567.5
+2025-01-26,Mazatlán Dorado,Mazatlán,Lentes bifocales,Lentes,3,1490,0,4470
+2025-01-26,Centro,Culiacán,Armazón de diseñador,Armazones,2,1650,0.05,3135.0
+2025-01-26,Guasave,Guasave,Armazón premium,Armazones,1,890,0.1,801.0
+2025-01-27,Mazatlán Centro,Mazatlán,Armazón básico,Armazones,3,350,0.1,945.0
+2025-01-27,Forum,Culiacán,Consulta visual,Servicios,1,99,0,99
+2025-01-27,Mazatlán Dorado,Mazatlán,Gotas lubricantes,Accesorios,3,95,0.1,256.5
+2025-01-27,Forum,Culiacán,Armazón premium,Armazones,3,890,0,2670
+2025-01-27,Mazatlán Dorado,Mazatlán,Microfibra,Accesorios,3,45,0,135
+2025-01-28,Centro,Culiacán,Gotas lubricantes,Accesorios,3,95,0.05,270.75
+2025-01-28,Guasave,Guasave,Estuche rígido,Accesorios,3,80,0,240
+2025-01-28,Centro,Culiacán,Lentes monofocales,Lentes,2,890,0,1780
+2025-01-28,Plaza Fiesta,Culiacán,Microfibra,Accesorios,3,45,0.05,128.25
+2025-01-28,Galerías,Culiacán,Estuche rígido,Accesorios,1,80,0,80
+2025-01-29,Plaza Fiesta,Culiacán,Microfibra,Accesorios,2,45,0,90
+2025-01-29,Mazatlán Dorado,Mazatlán,Microfibra,Accesorios,2,45,0,90
+2025-01-29,Mazatlán Dorado,Mazatlán,Microfibra,Accesorios,3,45,0.05,128.25
+2025-01-29,Centro,Culiacán,Armazón de diseñador,Armazones,1,1650,0.15,1402.5
+2025-01-30,Galerías,Culiacán,Lentes bifocales,Lentes,1,1490,0.15,1266.5
+2025-01-30,Galerías,Culiacán,Consulta visual,Servicios,3,99,0.1,267.3
+2025-01-30,Los Mochis,Los Mochis,Consulta visual,Servicios,2,99,0,198
+2025-01-31,Galerías,Culiacán,Consulta visual,Servicios,2,99,0,198
+2025-01-31,Plaza Fiesta,Culiacán,Lentes progresivos,Lentes,2,2490,0,4980
+2025-01-31,Galerías,Culiacán,Estuche rígido,Accesorios,1,80,0.1,72.0
+2025-01-31,Los Mochis,Los Mochis,Consulta visual,Servicios,3,99,0,297
+2025-01-31,Plaza Fiesta,Culiacán,Armazón premium,Armazones,3,890,0,2670
+2025-01-31,Galerías,Culiacán,Armazón básico,Armazones,3,350,0,1050
+2025-01-31,Mazatlán Centro,Mazatlán,Lentes monofocales,Lentes,1,890,0,890
+2025-01-31,Los Mochis,Los Mochis,Gotas lubricantes,Accesorios,2,95,0.15,161.5
+2025-01-31,Mazatlán Centro,Mazatlán,Armazón de diseñador,Armazones,2,1650,0.05,3135.0
+2025-01-31,Forum,Culiacán,Gotas lubricantes,Accesorios,2,95,0,190
+2025-02-01,Forum,Culiacán,Lentes progresivos,Lentes,3,2490,0,7470
+2025-02-01,Guasave,Guasave,Microfibra,Accesorios,2,45,0.1,81.0
+2025-02-01,Los Mochis,Los Mochis,Solución 360ml,Accesorios,1,120,0,120
+2025-02-01,Centro,Culiacán,Gotas lubricantes,Accesorios,1,95,0,95
+2025-02-01,Galerías,Culiacán,Lentes progresivos,Lentes,3,2490,0,7470
+2025-02-01,Tres Ríos,Culiacán,Estuche rígido,Accesorios,1,80,0.15,68.0
+2025-02-01,Galerías,Culiacán,Microfibra,Accesorios,2,45,0.1,81.0
+2025-02-02,Centro,Culiacán,Estuche rígido,Accesorios,2,80,0.1,144.0
+2025-02-02,Los Mochis,Los Mochis,Armazón premium,Armazones,1,890,0,890
+2025-02-02,Mazatlán Centro,Mazatlán,Lentes progresivos,Lentes,3,2490,0,7470
+2025-02-03,Guasave,Guasave,Lentes progresivos,Lentes,3,2490,0,7470
+2025-02-03,Plaza Fiesta,Culiacán,Armazón de diseñador,Armazones,1,1650,0,1650
+2025-02-03,Guasave,Guasave,Estuche rígido,Accesorios,2,80,0.15,136.0
+2025-02-03,Plaza Fiesta,Culiacán,Gotas lubricantes,Accesorios,2,95,0,190
+2025-02-03,Mazatlán Centro,Mazatlán,Armazón premium,Armazones,3,890,0.1,2403.0
+2025-02-03,Mazatlán Centro,Mazatlán,Gotas lubricantes,Accesorios,3,95,0,285
+2025-02-03,Mazatlán Dorado,Mazatlán,Consulta visual,Servicios,2,99,0,198
+2025-02-04,Tres Ríos,Culiacán,Armazón básico,Armazones,3,350,0.1,945.0
+2025-02-04,Mazatlán Centro,Mazatlán,Lentes bifocales,Lentes,2,1490,0,2980
+2025-02-04,Mazatlán Centro,Mazatlán,Armazón básico,Armazones,1,350,0,350
+2025-02-04,Mazatlán Dorado,Mazatlán,Estuche rígido,Accesorios,2,80,0,160
+2025-02-05,Centro,Culiacán,Lentes monofocales,Lentes,2,890,0.15,1513.0
+2025-02-05,Guasave,Guasave,Lentes monofocales,Lentes,3,890,0,2670
+2025-02-05,Forum,Culiacán,Lentes bifocales,Lentes,1,1490,0.1,1341.0
+2025-02-06,Forum,Culiacán,Armazón premium,Armazones,2,890,0,1780
+2025-02-06,Tres Ríos,Culiacán,Armazón básico,Armazones,2,350,0,700
+2025-02-06,Galerías,Culiacán,Estuche rígido,Accesorios,1,80,0.1,72.0
+2025-02-06,Mazatlán Dorado,Mazatlán,Microfibra,Accesorios,1,45,0,45
+2025-02-06,Forum,Culiacán,Gotas lubricantes,Accesorios,2,95,0,190
+2025-02-06,Los Mochis,Los Mochis,Lentes progresivos,Lentes,3,2490,0,7470
+2025-02-06,Tres Ríos,Culiacán,Solución 360ml,Accesorios,3,120,0,360
+2025-02-08,Tres Ríos,Culiacán,Gotas lubricantes,Accesorios,1,95,0,95
+2025-02-08,Galerías,Culiacán,Gotas lubricantes,Accesorios,1,95,0,95
+2025-02-08,Tres Ríos,Culiacán,Lentes monofocales,Lentes,1,890,0,890
+2025-02-08,Plaza Fiesta,Culiacán,Consulta visual,Servicios,1,99,0.15,84.15
+2025-02-08,Guasave,Guasave,Lentes bifocales,Lentes,3,1490,0.1,4023.0
+2025-02-08,Mazatlán Centro,Mazatlán,Microfibra,Accesorios,3,45,0.05,128.25
+2025-02-09,Forum,Culiacán,Armazón básico,Armazones,1,350,0,350
+2025-02-09,Plaza Fiesta,Culiacán,Armazón básico,Armazones,2,350,0.15,595.0
+2025-02-10,Forum,Culiacán,Consulta visual,Servicios,2,99,0,198
+2025-02-10,Mazatlán Dorado,Mazatlán,Gotas lubricantes,Accesorios,3,95,0,285
+2025-02-10,Mazatlán Dorado,Mazatlán,Gotas lubricantes,Accesorios,2,95,0.1,171.0
+2025-02-10,Mazatlán Dorado,Mazatlán,Lentes progresivos,Lentes,2,2490,0.1,4482.0
+2025-02-11,Los Mochis,Los Mochis,Estuche rígido,Accesorios,2,80,0.1,144.0
+2025-02-11,Plaza Fiesta,Culiacán,Estuche rígido,Accesorios,1,80,0,80
+2025-02-11,Mazatlán Dorado,Mazatlán,Lentes progresivos,Lentes,1,2490,0,2490
+2025-02-11,Tres Ríos,Culiacán,Lentes monofocales,Lentes,1,890,0,890
+2025-02-11,Los Mochis,Los Mochis,Microfibra,Accesorios,1,45,0,45
+2025-02-11,Mazatlán Centro,Mazatlán,Armazón básico,Armazones,1,350,0,350
+2025-02-11,Los Mochis,Los Mochis,Microfibra,Accesorios,2,45,0,90
+2025-02-12,Tres Ríos,Culiacán,Estuche rígido,Accesorios,1,80,0.05,76.0
+2025-02-12,Plaza Fiesta,Culiacán,Consulta visual,Servicios,3,99,0.15,252.45
+2025-02-12,Plaza Fiesta,Culiacán,Lentes monofocales,Lentes,2,890,0.05,1691.0
+2025-02-12,Tres Ríos,Culiacán,Solución 360ml,Accesorios,3,120,0,360
+2025-02-13,Tres Ríos,Culiacán,Lentes bifocales,Lentes,2,1490,0,2980
+2025-02-13,Mazatlán Dorado,Mazatlán,Armazón premium,Armazones,2,890,0,1780
+2025-02-13,Tres Ríos,Culiacán,Estuche rígido,Accesorios,1,80,0,80
+2025-02-13,Plaza Fiesta,Culiacán,Armazón de diseñador,Armazones,2,1650,0.1,2970.0
+2025-02-13,Forum,Culiacán,Armazón de diseñador,Armazones,1,1650,0,1650
+2025-02-13,Plaza Fiesta,Culiacán,Consulta visual,Servicios,2,99,0.1,178.2
+2025-02-13,Guasave,Guasave,Armazón de diseñador,Armazones,1,1650,0,1650
+2025-02-14,Mazatlán Dorado,Mazatlán,Lentes bifocales,Lentes,2,1490,0.1,2682.0
+2025-02-14,Mazatlán Centro,Mazatlán,Consulta visual,Servicios,1,99,0,99
+2025-02-14,Los Mochis,Los Mochis,Lentes monofocales,Lentes,3,890,0.15,2269.5
+2025-02-14,Tres Ríos,Culiacán,Microfibra,Accesorios,3,45,0,135
+2025-02-14,Plaza Fiesta,Culiacán,Microfibra,Accesorios,3,45,0.05,128.25
+2025-02-14,Guasave,Guasave,Armazón premium,Armazones,1,890,0,890
+2025-02-14,Mazatlán Dorado,Mazatlán,Lentes progresivos,Lentes,2,2490,0.05,4731.0
+2025-02-15,Mazatlán Centro,Mazatlán,Gotas lubricantes,Accesorios,2,95,0.15,161.5
+2025-02-15,Mazatlán Centro,Mazatlán,Solución 360ml,Accesorios,1,120,0,120
+2025-02-15,Galerías,Culiacán,Armazón premium,Armazones,1,890,0.15,756.5
+2025-02-15,Tres Ríos,Culiacán,Gotas lubricantes,Accesorios,3,95,0,285
+2025-02-15,Tres Ríos,Culiacán,Armazón de diseñador,Armazones,1,1650,0.1,1485.0
+2025-02-15,Mazatlán Dorado,Mazatlán,Armazón premium,Armazones,3,890,0.15,2269.5
+2025-02-16,Forum,Culiacán,Lentes bifocales,Lentes,1,1490,0.1,1341.0
+2025-02-16,Plaza Fiesta,Culiacán,Armazón de diseñador,Armazones,2,1650,0,3300
+2025-02-16,Plaza Fiesta,Culiacán,Armazón premium,Armazones,1,890,0.1,801.0
+2025-02-16,Tres Ríos,Culiacán,Consulta visual,Servicios,2,99,0.05,188.1
+2025-02-16,Guasave,Guasave,Consulta visual,Servicios,1,99,0,99
+2025-02-16,Guasave,Guasave,Armazón básico,Armazones,1,350,0,350
+2025-02-16,Mazatlán Dorado,Mazatlán,Armazón de diseñador,Armazones,1,1650,0,1650
+2025-02-17,Galerías,Culiacán,Lentes progresivos,Lentes,2,2490,0.15,4233.0
+2025-02-17,Guasave,Guasave,Lentes progresivos,Lentes,2,2490,0,4980
+2025-02-17,Los Mochis,Los Mochis,Microfibra,Accesorios,3,45,0,135
+2025-02-17,Forum,Culiacán,Estuche rígido,Accesorios,2,80,0,160
+2025-02-17,Forum,Culiacán,Solución 360ml,Accesorios,1,120,0,120
+2025-02-17,Mazatlán Dorado,Mazatlán,Solución 360ml,Accesorios,3,120,0,360
+2025-02-17,Los Mochis,Los Mochis,Lentes bifocales,Lentes,3,1490,0,4470
+2025-02-18,Los Mochis,Los Mochis,Microfibra,Accesorios,2,45,0.05,85.5
+2025-02-18,Centro,Culiacán,Estuche rígido,Accesorios,1,80,0,80
+2025-02-18,Plaza Fiesta,Culiacán,Gotas lubricantes,Accesorios,3,95,0,285
+2025-02-18,Mazatlán Centro,Mazatlán,Armazón básico,Armazones,2,350,0,700
+2025-02-18,Mazatlán Dorado,Mazatlán,Armazón básico,Armazones,1,350,0.05,332.5
+2025-02-18,Mazatlán Dorado,Mazatlán,Consulta visual,Servicios,3,99,0,297
+2025-02-18,Forum,Culiacán,Estuche rígido,Accesorios,3,80,0,240
+2025-02-18,Guasave,Guasave,Armazón básico,Armazones,3,350,0.05,997.5
+2025-02-18,Plaza Fiesta,Culiacán,Consulta visual,Servicios,1,99,0,99
+2025-02-19,Forum,Culiacán,Armazón premium,Armazones,1,890,0.1,801.0
+2025-02-19,Plaza Fiesta,Culiacán,Armazón básico,Armazones,1,350,0,350
+2025-02-19,Los Mochis,Los Mochis,Gotas lubricantes,Accesorios,3,95,0.15,242.25
+2025-02-19,Mazatlán Centro,Mazatlán,Armazón premium,Armazones,3,890,0,2670
+2025-02-19,Mazatlán Centro,Mazatlán,Lentes progresivos,Lentes,2,2490,0.1,4482.0
+2025-02-20,Centro,Culiacán,Armazón premium,Armazones,3,890,0,2670
+2025-02-20,Guasave,Guasave,Estuche rígido,Accesorios,2,80,0,160
+2025-02-21,Guasave,Guasave,Armazón de diseñador,Armazones,1,1650,0,1650
+2025-02-21,Guasave,Guasave,Lentes monofocales,Lentes,2,890,0,1780
+2025-02-21,Plaza Fiesta,Culiacán,Estuche rígido,Accesorios,1,80,0.05,76.0
+2025-02-21,Forum,Culiacán,Armazón premium,Armazones,3,890,0.05,2536.5
+2025-02-21,Guasave,Guasave,Lentes monofocales,Lentes,3,890,0.15,2269.5
+2025-02-21,Mazatlán Dorado,Mazatlán,Consulta visual,Servicios,1,99,0,99
+2025-02-22,Mazatlán Centro,Mazatlán,Solución 360ml,Accesorios,3,120,0,360
+2025-02-22,Mazatlán Centro,Mazatlán,Microfibra,Accesorios,2,45,0,90
+2025-02-22,Mazatlán Centro,Mazatlán,Armazón de diseñador,Armazones,3,1650,0,4950
+2025-02-22,Centro,Culiacán,Armazón de diseñador,Armazones,3,1650,0,4950
+2025-02-22,Mazatlán Centro,Mazatlán,Estuche rígido,Accesorios,2,80,0,160
+2025-02-22,Mazatlán Centro,Mazatlán,Consulta visual,Servicios,3,99,0,297
+2025-02-23,Guasave,Guasave,Microfibra,Accesorios,3,45,0,135
+2025-02-23,Mazatlán Centro,Mazatlán,Microfibra,Accesorios,2,45,0.15,76.5
+2025-02-23,Galerías,Culiacán,Armazón básico,Armazones,3,350,0,1050
+2025-02-23,Los Mochis,Los Mochis,Estuche rígido,Accesorios,1,80,0,80
+2025-02-24,Mazatlán Centro,Mazatlán,Armazón premium,Armazones,1,890,0,890
+2025-02-24,Guasave,Guasave,Armazón de diseñador,Armazones,2,1650,0.1,2970.0
+2025-02-24,Centro,Culiacán,Armazón premium,Armazones,3,890,0,2670
+2025-02-24,Guasave,Guasave,Armazón de diseñador,Armazones,1,1650,0,1650
+2025-02-25,Centro,Culiacán,Microfibra,Accesorios,3,45,0.1,121.5
+2025-02-25,Tres Ríos,Culiacán,Consulta visual,Servicios,3,99,0.15,252.45
+2025-02-25,Tres Ríos,Culiacán,Lentes bifocales,Lentes,3,1490,0.1,4023.0
+2025-02-25,Tres Ríos,Culiacán,Armazón básico,Armazones,2,350,0,700
+2025-02-26,Guasave,Guasave,Solución 360ml,Accesorios,3,120,0,360
+2025-02-26,Galerías,Culiacán,Gotas lubricantes,Accesorios,2,95,0,190
+2025-02-26,Galerías,Culiacán,Lentes progresivos,Lentes,3,2490,0,7470
+2025-02-26,Centro,Culiacán,Armazón básico,Armazones,2,350,0.05,665.0
+2025-02-26,Tres Ríos,Culiacán,Lentes bifocales,Lentes,2,1490,0.05,2831.0
+2025-02-26,Mazatlán Dorado,Mazatlán,Estuche rígido,Accesorios,3,80,0,240
+2025-02-26,Tres Ríos,Culiacán,Estuche rígido,Accesorios,2,80,0.1,144.0
+2025-02-26,Los Mochis,Los Mochis,Microfibra,Accesorios,3,45,0.05,128.25
+2025-02-26,Centro,Culiacán,Solución 360ml,Accesorios,2,120,0.1,216.0
+2025-02-26,Los Mochis,Los Mochis,Armazón premium,Armazones,2,890,0.05,1691.0
+2025-02-26,Tres Ríos,Culiacán,Consulta visual,Servicios,2,99,0.1,178.2
+2025-02-27,Plaza Fiesta,Culiacán,Solución 360ml,Accesorios,1,120,0,120
+2025-02-27,Forum,Culiacán,Estuche rígido,Accesorios,3,80,0.05,228.0
+2025-02-27,Centro,Culiacán,Lentes bifocales,Lentes,2,1490,0,2980
+2025-02-27,Tres Ríos,Culiacán,Armazón de diseñador,Armazones,3,1650,0,4950
+2025-02-27,Forum,Culiacán,Microfibra,Accesorios,1,45,0,45
+2025-02-27,Centro,Culiacán,Lentes bifocales,Lentes,1,1490,0,1490
+2025-02-27,Mazatlán Dorado,Mazatlán,Lentes progresivos,Lentes,3,2490,0,7470
+2025-02-28,Galerías,Culiacán,Solución 360ml,Accesorios,3,120,0.1,324.0
+2025-02-28,Mazatlán Centro,Mazatlán,Armazón premium,Armazones,1,890,0,890
+2025-02-28,Plaza Fiesta,Culiacán,Solución 360ml,Accesorios,1,120,0.1,108.0
+2025-02-28,Galerías,Culiacán,Armazón premium,Armazones,2,890,0,1780
+2025-02-28,Guasave,Guasave,Lentes progresivos,Lentes,2,2490,0,4980
+2025-02-28,Centro,Culiacán,Lentes progresivos,Lentes,2,2490,0.15,4233.0
+2025-02-28,Mazatlán Centro,Mazatlán,Consulta visual,Servicios,3,99,0.1,267.3
+2025-02-28,Centro,Culiacán,Lentes monofocales,Lentes,2,890,0.15,1513.0
+2025-02-28,Centro,Culiacán,Armazón premium,Armazones,1,890,0,890
+2025-02-28,Tres Ríos,Culiacán,Lentes monofocales,Lentes,1,890,0,890
+2025-03-01,Centro,Culiacán,Consulta visual,Servicios,3,99,0.1,267.3
+2025-03-01,Forum,Culiacán,Lentes bifocales,Lentes,2,1490,0.15,2533.0
+2025-03-01,Guasave,Guasave,Microfibra,Accesorios,3,45,0,135
+2025-03-02,Los Mochis,Los Mochis,Estuche rígido,Accesorios,2,80,0,160
+2025-03-02,Forum,Culiacán,Armazón de diseñador,Armazones,3,1650,0.05,4702.5
+2025-03-02,Guasave,Guasave,Estuche rígido,Accesorios,1,80,0.05,76.0
+2025-03-03,Guasave,Guasave,Microfibra,Accesorios,1,45,0,45
+2025-03-03,Los Mochis,Los Mochis,Solución 360ml,Accesorios,3,120,0.05,342.0
+2025-03-03,Galerías,Culiacán,Gotas lubricantes,Accesorios,3,95,0.05,270.75
+2025-03-03,Mazatlán Centro,Mazatlán,Armazón de diseñador,Armazones,3,1650,0.15,4207.5
+2025-03-03,Tres Ríos,Culiacán,Armazón básico,Armazones,2,350,0.05,665.0
+2025-03-03,Mazatlán Centro,Mazatlán,Microfibra,Accesorios,1,45,0.1,40.5
+2025-03-03,Plaza Fiesta,Culiacán,Lentes progresivos,Lentes,1,2490,0.1,2241.0
+2025-03-03,Guasave,Guasave,Solución 360ml,Accesorios,2,120,0.15,204.0
+2025-03-03,Forum,Culiacán,Consulta visual,Servicios,2,99,0,198
+2025-03-04,Tres Ríos,Culiacán,Microfibra,Accesorios,1,45,0,45
+2025-03-04,Los Mochis,Los Mochis,Armazón básico,Armazones,2,350,0,700
+2025-03-04,Forum,Culiacán,Armazón premium,Armazones,2,890,0,1780
+2025-03-04,Tres Ríos,Culiacán,Solución 360ml,Accesorios,2,120,0.1,216.0
+2025-03-04,Tres Ríos,Culiacán,Lentes monofocales,Lentes,3,890,0,2670
+2025-03-04,Guasave,Guasave,Lentes monofocales,Lentes,3,890,0,2670
+2025-03-04,Mazatlán Dorado,Mazatlán,Armazón premium,Armazones,1,890,0.1,801.0
+2025-03-04,Forum,Culiacán,Armazón básico,Armazones,1,350,0,350
+2025-03-04,Galerías,Culiacán,Estuche rígido,Accesorios,1,80,0,80
+2025-03-05,Centro,Culiacán,Lentes progresivos,Lentes,3,2490,0.05,7096.5
+2025-03-05,Tres Ríos,Culiacán,Lentes bifocales,Lentes,1,1490,0.05,1415.5
+2025-03-05,Guasave,Guasave,Lentes monofocales,Lentes,3,890,0.05,2536.5
+2025-03-05,Mazatlán Centro,Mazatlán,Microfibra,Accesorios,2,45,0.15,76.5
+2025-03-05,Guasave,Guasave,Armazón premium,Armazones,3,890,0,2670
+2025-03-06,Centro,Culiacán,Microfibra,Accesorios,1,45,0.1,40.5
+2025-03-06,Mazatlán Centro,Mazatlán,Lentes monofocales,Lentes,2,890,0.15,1513.0
+2025-03-06,Tres Ríos,Culiacán,Armazón premium,Armazones,2,890,0,1780
+2025-03-06,Plaza Fiesta,Culiacán,Lentes monofocales,Lentes,1,890,0.1,801.0
+2025-03-07,Tres Ríos,Culiacán,Lentes progresivos,Lentes,1,2490,0.05,2365.5
+2025-03-07,Tres Ríos,Culiacán,Microfibra,Accesorios,3,45,0,135
+2025-03-07,Los Mochis,Los Mochis,Estuche rígido,Accesorios,2,80,0,160
+2025-03-07,Plaza Fiesta,Culiacán,Armazón de diseñador,Armazones,3,1650,0,4950
+2025-03-08,Galerías,Culiacán,Gotas lubricantes,Accesorios,3,95,0.15,242.25
+2025-03-08,Mazatlán Centro,Mazatlán,Gotas lubricantes,Accesorios,2,95,0.1,171.0
+2025-03-08,Tres Ríos,Culiacán,Armazón premium,Armazones,1,890,0.15,756.5
+2025-03-09,Centro,Culiacán,Gotas lubricantes,Accesorios,2,95,0,190
+2025-03-09,Mazatlán Dorado,Mazatlán,Armazón básico,Armazones,3,350,0.15,892.5
+2025-03-09,Mazatlán Dorado,Mazatlán,Gotas lubricantes,Accesorios,3,95,0.15,242.25
+2025-03-09,Galerías,Culiacán,Estuche rígido,Accesorios,3,80,0.05,228.0
+2025-03-09,Forum,Culiacán,Solución 360ml,Accesorios,2,120,0,240
+2025-03-09,Tres Ríos,Culiacán,Solución 360ml,Accesorios,2,120,0.1,216.0
+2025-03-09,Mazatlán Dorado,Mazatlán,Lentes progresivos,Lentes,1,2490,0.15,2116.5
+2025-03-09,Mazatlán Dorado,Mazatlán,Lentes bifocales,Lentes,2,1490,0,2980
+2025-03-09,Guasave,Guasave,Microfibra,Accesorios,3,45,0.05,128.25
+2025-03-09,Mazatlán Centro,Mazatlán,Solución 360ml,Accesorios,2,120,0.1,216.0
+2025-03-10,Centro,Culiacán,Solución 360ml,Accesorios,3,120,0.05,342.0
+2025-03-10,Mazatlán Dorado,Mazatlán,Consulta visual,Servicios,2,99,0,198
+2025-03-10,Plaza Fiesta,Culiacán,Armazón básico,Armazones,1,350,0.1,315.0
+2025-03-10,Plaza Fiesta,Culiacán,Armazón premium,Armazones,1,890,0,890
+2025-03-10,Mazatlán Dorado,Mazatlán,Armazón de diseñador,Armazones,3,1650,0.1,4455.0
+2025-03-11,Plaza Fiesta,Culiacán,Gotas lubricantes,Accesorios,3,95,0,285
+2025-03-11,Galerías,Culiacán,Gotas lubricantes,Accesorios,3,95,0.05,270.75
+2025-03-11,Tres Ríos,Culiacán,Lentes progresivos,Lentes,1,2490,0,2490
+2025-03-11,Los Mochis,Los Mochis,Estuche rígido,Accesorios,1,80,0.05,76.0
+2025-03-11,Los Mochis,Los Mochis,Solución 360ml,Accesorios,1,120,0,120
+2025-03-11,Mazatlán Dorado,Mazatlán,Estuche rígido,Accesorios,2,80,0.15,136.0
+2025-03-11,Plaza Fiesta,Culiacán,Lentes bifocales,Lentes,2,1490,0,2980
+2025-03-11,Mazatlán Centro,Mazatlán,Microfibra,Accesorios,3,45,0,135
+2025-03-11,Galerías,Culiacán,Lentes progresivos,Lentes,1,2490,0.1,2241.0
+2025-03-11,Guasave,Guasave,Lentes monofocales,Lentes,3,890,0,2670
+2025-03-12,Tres Ríos,Culiacán,Lentes monofocales,Lentes,3,890,0.05,2536.5
+2025-03-12,Plaza Fiesta,Culiacán,Armazón premium,Armazones,2,890,0.05,1691.0
+2025-03-12,Mazatlán Dorado,Mazatlán,Microfibra,Accesorios,1,45,0,45
+2025-03-12,Plaza Fiesta,Culiacán,Armazón básico,Armazones,2,350,0.1,630.0
+2025-03-12,Galerías,Culiacán,Lentes progresivos,Lentes,3,2490,0.15,6349.5
+2025-03-12,Mazatlán Dorado,Mazatlán,Lentes bifocales,Lentes,1,1490,0.15,1266.5
+2025-03-12,Forum,Culiacán,Solución 360ml,Accesorios,2,120,0,240
+2025-03-12,Mazatlán Centro,Mazatlán,Estuche rígido,Accesorios,3,80,0,240
+2025-03-12,Galerías,Culiacán,Gotas lubricantes,Accesorios,3,95,0.05,270.75
+2025-03-13,Los Mochis,Los Mochis,Lentes progresivos,Lentes,1,2490,0,2490
+2025-03-13,Mazatlán Dorado,Mazatlán,Gotas lubricantes,Accesorios,3,95,0,285
+2025-03-13,Mazatlán Dorado,Mazatlán,Gotas lubricantes,Accesorios,3,95,0.15,242.25
+2025-03-13,Mazatlán Centro,Mazatlán,Gotas lubricantes,Accesorios,1,95,0.1,85.5
+2025-03-13,Mazatlán Centro,Mazatlán,Lentes bifocales,Lentes,2,1490,0.05,2831.0
+2025-03-13,Mazatlán Dorado,Mazatlán,Armazón premium,Armazones,2,890,0.1,1602.0
+2025-03-13,Tres Ríos,Culiacán,Armazón de diseñador,Armazones,1,1650,0,1650
+2025-03-14,Galerías,Culiacán,Lentes bifocales,Lentes,1,1490,0,1490
+2025-03-14,Centro,Culiacán,Gotas lubricantes,Accesorios,3,95,0,285
+2025-03-14,Galerías,Culiacán,Estuche rígido,Accesorios,1,80,0,80
+2025-03-15,Centro,Culiacán,Consulta visual,Servicios,2,99,0.05,188.1
+2025-03-15,Forum,Culiacán,Lentes progresivos,Lentes,2,2490,0,4980
+2025-03-15,Tres Ríos,Culiacán,Lentes progresivos,Lentes,2,2490,0.1,4482.0
+2025-03-15,Galerías,Culiacán,Consulta visual,Servicios,1,99,0.15,84.15
+2025-03-15,Mazatlán Dorado,Mazatlán,Gotas lubricantes,Accesorios,3,95,0,285
+2025-03-15,Tres Ríos,Culiacán,Armazón básico,Armazones,1,350,0,350
+2025-03-16,Mazatlán Dorado,Mazatlán,Gotas lubricantes,Accesorios,2,95,0,190
+2025-03-16,Centro,Culiacán,Gotas lubricantes,Accesorios,2,95,0,190
+2025-03-16,Centro,Culiacán,Armazón premium,Armazones,3,890,0.1,2403.0
+2025-03-16,Mazatlán Centro,Mazatlán,Lentes progresivos,Lentes,1,2490,0,2490
+2025-03-16,Los Mochis,Los Mochis,Consulta visual,Servicios,3,99,0.1,267.3
+2025-03-17,Galerías,Culiacán,Lentes monofocales,Lentes,1,890,0.1,801.0
+2025-03-17,Galerías,Culiacán,Consulta visual,Servicios,2,99,0.1,178.2
+2025-03-17,Forum,Culiacán,Armazón básico,Armazones,2,350,0.15,595.0
+2025-03-17,Tres Ríos,Culiacán,Estuche rígido,Accesorios,3,80,0,240
+2025-03-17,Guasave,Guasave,Microfibra,Accesorios,2,45,0.1,81.0
+2025-03-18,Los Mochis,Los Mochis,Armazón premium,Armazones,1,890,0,890
+2025-03-18,Guasave,Guasave,Lentes progresivos,Lentes,1,2490,0,2490
+2025-03-19,Plaza Fiesta,Culiacán,Microfibra,Accesorios,3,45,0,135
+2025-03-19,Tres Ríos,Culiacán,Lentes progresivos,Lentes,2,2490,0,4980
+2025-03-19,Plaza Fiesta,Culiacán,Consulta visual,Servicios,1,99,0,99
+2025-03-19,Plaza Fiesta,Culiacán,Armazón premium,Armazones,1,890,0.1,801.0
+2025-03-19,Mazatlán Centro,Mazatlán,Gotas lubricantes,Accesorios,1,95,0.15,80.75
+2025-03-19,Plaza Fiesta,Culiacán,Armazón de diseñador,Armazones,3,1650,0,4950
+2025-03-19,Guasave,Guasave,Solución 360ml,Accesorios,3,120,0,360
+2025-03-20,Centro,Culiacán,Consulta visual,Servicios,3,99,0,297
+2025-03-20,Tres Ríos,Culiacán,Lentes bifocales,Lentes,2,1490,0,2980
+2025-03-20,Mazatlán Dorado,Mazatlán,Armazón básico,Armazones,1,350,0.15,297.5
+2025-03-21,Forum,Culiacán,Microfibra,Accesorios,2,45,0,90
+2025-03-21,Centro,Culiacán,Consulta visual,Servicios,1,99,0,99
+2025-03-21,Plaza Fiesta,Culiacán,Gotas lubricantes,Accesorios,2,95,0,190
+2025-03-22,Galerías,Culiacán,Consulta visual,Servicios,3,99,0.05,282.15
+2025-03-22,Centro,Culiacán,Lentes progresivos,Lentes,1,2490,0.15,2116.5
+2025-03-22,Los Mochis,Los Mochis,Estuche rígido,Accesorios,3,80,0.15,204.0
+2025-03-22,Mazatlán Centro,Mazatlán,Lentes bifocales,Lentes,2,1490,0,2980
+2025-03-23,Tres Ríos,Culiacán,Lentes monofocales,Lentes,3,890,0,2670
+2025-03-23,Mazatlán Centro,Mazatlán,Lentes bifocales,Lentes,1,1490,0.1,1341.0
+2025-03-23,Los Mochis,Los Mochis,Lentes bifocales,Lentes,2,1490,0,2980
+2025-03-23,Forum,Culiacán,Gotas lubricantes,Accesorios,2,95,0.1,171.0
+2025-03-23,Guasave,Guasave,Armazón de diseñador,Armazones,2,1650,0.05,3135.0
+2025-03-23,Mazatlán Dorado,Mazatlán,Armazón premium,Armazones,1,890,0,890
+2025-03-23,Mazatlán Centro,Mazatlán,Consulta visual,Servicios,2,99,0,198
+2025-03-23,Los Mochis,Los Mochis,Lentes bifocales,Lentes,1,1490,0.15,1266.5
+2025-03-24,Los Mochis,Los Mochis,Lentes progresivos,Lentes,2,2490,0,4980
+2025-03-24,Plaza Fiesta,Culiacán,Armazón premium,Armazones,1,890,0,890
+2025-03-24,Centro,Culiacán,Armazón premium,Armazones,2,890,0,1780
+2025-03-24,Mazatlán Centro,Mazatlán,Lentes monofocales,Lentes,2,890,0,1780
+2025-03-24,Tres Ríos,Culiacán,Gotas lubricantes,Accesorios,3,95,0.05,270.75
+2025-03-24,Forum,Culiacán,Armazón premium,Armazones,2,890,0.15,1513.0
+2025-03-25,Guasave,Guasave,Solución 360ml,Accesorios,1,120,0,120
+2025-03-25,Mazatlán Centro,Mazatlán,Estuche rígido,Accesorios,3,80,0,240
+2025-03-25,Centro,Culiacán,Lentes monofocales,Lentes,1,890,0,890
+2025-03-25,Plaza Fiesta,Culiacán,Lentes bifocales,Lentes,2,1490,0.15,2533.0
+2025-03-25,Tres Ríos,Culiacán,Armazón de diseñador,Armazones,3,1650,0.15,4207.5
+2025-03-25,Mazatlán Centro,Mazatlán,Lentes progresivos,Lentes,1,2490,0,2490
+2025-03-25,Los Mochis,Los Mochis,Armazón premium,Armazones,3,890,0,2670
+2025-03-25,Forum,Culiacán,Lentes monofocales,Lentes,3,890,0,2670
+2025-03-26,Los Mochis,Los Mochis,Microfibra,Accesorios,1,45,0,45
+2025-03-26,Guasave,Guasave,Armazón de diseñador,Armazones,2,1650,0,3300
+2025-03-26,Tres Ríos,Culiacán,Armazón premium,Armazones,3,890,0.1,2403.0
+2025-03-26,Centro,Culiacán,Lentes bifocales,Lentes,3,1490,0,4470
+2025-03-26,Los Mochis,Los Mochis,Lentes progresivos,Lentes,2,2490,0.05,4731.0
+2025-03-26,Mazatlán Dorado,Mazatlán,Armazón premium,Armazones,1,890,0.05,845.5
+2025-03-26,Plaza Fiesta,Culiacán,Consulta visual,Servicios,1,99,0.1,89.1
+2025-03-26,Plaza Fiesta,Culiacán,Armazón de diseñador,Armazones,1,1650,0.05,1567.5
+2025-03-26,Plaza Fiesta,Culiacán,Armazón de diseñador,Armazones,2,1650,0.1,2970.0
+2025-03-26,Tres Ríos,Culiacán,Gotas lubricantes,Accesorios,3,95,0.15,242.25
+2025-03-27,Galerías,Culiacán,Consulta visual,Servicios,3,99,0,297
+2025-03-27,Mazatlán Centro,Mazatlán,Armazón básico,Armazones,2,350,0,700
+2025-03-27,Forum,Culiacán,Armazón de diseñador,Armazones,2,1650,0,3300
+2025-03-27,Mazatlán Centro,Mazatlán,Gotas lubricantes,Accesorios,2,95,0.1,171.0
+2025-03-27,Tres Ríos,Culiacán,Gotas lubricantes,Accesorios,1,95,0,95
+2025-03-27,Mazatlán Dorado,Mazatlán,Armazón de diseñador,Armazones,1,1650,0,1650
+2025-03-27,Mazatlán Centro,Mazatlán,Lentes bifocales,Lentes,2,1490,0.15,2533.0
+2025-03-28,Guasave,Guasave,Lentes bifocales,Lentes,3,1490,0,4470
+2025-03-28,Forum,Culiacán,Estuche rígido,Accesorios,1,80,0.05,76.0
+2025-03-28,Guasave,Guasave,Lentes monofocales,Lentes,3,890,0.1,2403.0
+2025-03-28,Los Mochis,Los Mochis,Microfibra,Accesorios,3,45,0,135
+2025-03-29,Mazatlán Dorado,Mazatlán,Gotas lubricantes,Accesorios,1,95,0,95
+2025-03-29,Centro,Culiacán,Gotas lubricantes,Accesorios,3,95,0,285
+2025-03-29,Guasave,Guasave,Lentes bifocales,Lentes,3,1490,0.1,4023.0
+2025-03-30,Guasave,Guasave,Armazón básico,Armazones,3,350,0,1050
+2025-03-30,Forum,Culiacán,Armazón premium,Armazones,2,890,0.1,1602.0
+2025-03-30,Forum,Culiacán,Lentes bifocales,Lentes,3,1490,0.15,3799.5
+2025-03-30,Galerías,Culiacán,Solución 360ml,Accesorios,2,120,0.05,228.0
+2025-03-30,Galerías,Culiacán,Lentes monofocales,Lentes,1,890,0,890
+2025-03-30,Mazatlán Centro,Mazatlán,Lentes bifocales,Lentes,2,1490,0.15,2533.0
+2025-03-30,Centro,Culiacán,Gotas lubricantes,Accesorios,2,95,0,190
+2025-03-31,Galerías,Culiacán,Armazón de diseñador,Armazones,1,1650,0.05,1567.5
+2025-03-31,Guasave,Guasave,Solución 360ml,Accesorios,3,120,0.1,324.0
+2025-03-31,Galerías,Culiacán,Armazón de diseñador,Armazones,2,1650,0,3300
+2025-03-31,Mazatlán Dorado,Mazatlán,Lentes progresivos,Lentes,3,2490,0.1,6723.0
