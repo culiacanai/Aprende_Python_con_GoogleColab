@@ -37,7 +37,7 @@ Cada notebook está diseñado para abrirse directamente en **Google Colab** — 
 
 | # | Notebook | Nivel | Descripción |
 |---|---------|-------|-------------|
-| 06 | [Manejo de Archivos](notebooks/06_Manejo_de_Archivos.ipynb) | 🟡 Intermedio | Leer y escribir CSV, JSON y Google Sheets |
+| 06 | [Manejo de Archivos: CSV y Excel](notebooks/06_Manejo_de_Archivos_CSV_y_Excel.ipynb) | 🟡 Intermedio | Leer, escribir y manipular archivos CSV y Excel con Python |
 | 07 | [Pandas Básico](notebooks/07_Pandas_Basico.ipynb) | 🟡 Intermedio | DataFrames, filtrar, agrupar y análisis exploratorio |
 | 08 | [Visualización con Matplotlib](notebooks/08_Visualizacion_con_Matplotlib.ipynb) | 🟡 Intermedio | Gráficas de barras, líneas, scatter y más |
 | 09 | [Web Scraping Básico](notebooks/09_Web_Scraping_Basico.ipynb) | 🟡 Intermedio | Extraer datos de páginas web con Python |
@@ -73,7 +73,7 @@ culiacanai/
 │   ├── notebooks/
 │   │   ├── 01_Bienvenido_a_Python.ipynb
 │   │   ├── 02_Variables_y_Tipos_de_Datos.ipynb
-│   │   ├── ...
+│   │   ├── 06_Manejo_de_Archivos_CSV_y_Excel.ipynb
 │   │   └── 15_Proyecto_Final.ipynb
 │   └── datos/
 │       └── (datasets usados en los ejercicios)
