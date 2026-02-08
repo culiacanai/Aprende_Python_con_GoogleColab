@@ -112,5 +112,5 @@ Este proyecto es de código abierto bajo la licencia [MIT](LICENSE).
 ---
 
 <p align="center">
-  Hecho con ❤️ desde Culiacán, Sinaloa 🇲🇽
+  Hecho en Culiacán, Sinaloa 🇲🇽
 </p>
